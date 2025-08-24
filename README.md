@@ -115,4 +115,6 @@ MediQR ensures compliance with healthcare data protection standards:
 ---
 
 ## 📜 License
-This project is licensed under the **MIT License** – free to use, modify, and distribute with attribution.
+This project is under a **Restricted License**.  
+- You **cannot** copy, modify, distribute, or use this project/code without prior written permission from the authors.  
+- For academic, research, or commercial usage, please contact the contributors for approval.
