@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Blue">#1F434B</color>
+    <color name="Grey">#485274</color>
+    <color name="Lavender">#8692f7</color>
+    <color name="Purple_light">#8985B6</color>
+    <color name="Red">#EE1C25</color>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF370083</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">MEDISCAN PLUS</string>
+    <string name="gcm_defaultSenderId" translatable="false">307917769538</string>
+    <string name="google_api_key" translatable="false">AIzaSyAdNOMjWXW5yOUo_ZMiTuSnitArWIiLXiI</string>
+    <string name="google_app_id" translatable="false">1:307917769538:android:77ea259bd1c426fc5756db</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAdNOMjWXW5yOUo_ZMiTuSnitArWIiLXiI</string>
+    <string name="google_storage_bucket" translatable="false">project-dc4de.appspot.com</string>
+    <string name="project_id" translatable="false">project-dc4de</string>
+    <style name="Base.Theme.Project" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Project" parent="Base.Theme.Project"/>
+</resources>

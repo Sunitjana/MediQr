@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307917769538",
+    "project_id": "project-dc4de",
+    "storage_bucket": "project-dc4de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307917769538:android:77ea259bd1c426fc5756db",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdNOMjWXW5yOUo_ZMiTuSnitArWIiLXiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

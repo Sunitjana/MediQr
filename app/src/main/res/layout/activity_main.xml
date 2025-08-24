@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main">
+
+    <TextView
+        android:id="@+id/welcomeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:text="Welcome Back"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/sloganText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/welcomeText"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="If health becomes a concern we will be by your side"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        />
+
+
+    <Button
+        android:id="@+id/qrGeneratorButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/sloganText"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:text="MAKE DATA FOR DOCTOR"
+        android:backgroundTint="@color/Blue"
+        android:textColor="@color/white"/>
+
+    <Button
+        android:id="@+id/qrScannerButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/qrGeneratorButton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="VIEW DATA"
+        android:backgroundTint="@color/Blue"
+        android:textColor="@color/white"/>
+    <Button
+        android:id="@+id/shopemedicine"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/qrScannerButton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="SHOP MEDICINE"
+        android:backgroundTint="@color/Blue"
+        android:textColor="@color/white"/>
+    <Button
+        android:id="@+id/findnearhospital"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/shopemedicine"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="NEAREST HOSPITAL"
+        android:backgroundTint="@color/Blue"
+        android:textColor="@color/white"/>
+    <Button
+        android:id="@+id/findnearmedicineshope"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/findnearhospital"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="NEAREST MEDICINE SHOP"
+        android:backgroundTint="@color/Blue"
+        android:textColor="@color/white"/>
+
+</RelativeLayout>

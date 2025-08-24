@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "com.example.project.app-debug-42:/drawable_lavender_border.xml.flat",
+        "source": "com.example.project.app-main-44:/drawable/lavender_border.xml"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/layout_activity_qrscanning.xml.flat",
+        "source": "com.example.project.app-main-44:/layout/activity_qrscanning.xml"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.project.app-main-44:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/drawable_scan.png.flat",
+        "source": "com.example.project.app-main-44:/drawable/scan.png"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.project.app-main-44:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/drawable_login2.png.flat",
+        "source": "com.example.project.app-main-44:/drawable/login2.png"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/drawable_background.png.flat",
+        "source": "com.example.project.app-main-44:/drawable/background.png"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/layout_activity_findnearhospital.xml.flat",
+        "source": "com.example.project.app-main-44:/layout/activity_findnearhospital.xml"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/layout_activity_shopemedicine.xml.flat",
+        "source": "com.example.project.app-main-44:/layout/activity_shopemedicine.xml"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/drawable_baseline_phone_24.xml.flat",
+        "source": "com.example.project.app-main-44:/drawable/baseline_phone_24.xml"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.project.app-main-44:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/drawable_blue_border.xml.flat",
+        "source": "com.example.project.app-main-44:/drawable/blue_border.xml"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/layout_activity_qrgeneretor.xml.flat",
+        "source": "com.example.project.app-main-44:/layout/activity_qrgeneretor.xml"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/drawable_baseline_menu_24.xml.flat",
+        "source": "com.example.project.app-main-44:/drawable/baseline_menu_24.xml"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/drawable_baseline_email_24.xml.flat",
+        "source": "com.example.project.app-main-44:/drawable/baseline_email_24.xml"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/drawable_img_1.png.flat",
+        "source": "com.example.project.app-main-44:/drawable/img_1.png"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.project.app-main-44:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.project.app-main-44:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/drawable_back.png.flat",
+        "source": "com.example.project.app-main-44:/drawable/back.png"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.project.app-main-44:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.project.app-main-44:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/drawable_img.png.flat",
+        "source": "com.example.project.app-main-44:/drawable/img.png"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/layout_activity_signup.xml.flat",
+        "source": "com.example.project.app-main-44:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/drawable_baseline_person_24.xml.flat",
+        "source": "com.example.project.app-main-44:/drawable/baseline_person_24.xml"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.project.app-main-44:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/drawable_white_border.xml.flat",
+        "source": "com.example.project.app-main-44:/drawable/white_border.xml"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.project.app-main-44:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.project.app-main-44:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/layout_activity_findneardoctor.xml.flat",
+        "source": "com.example.project.app-main-44:/layout/activity_findneardoctor.xml"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/drawable_baseline_person_pin_24.xml.flat",
+        "source": "com.example.project.app-main-44:/drawable/baseline_person_pin_24.xml"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.project.app-main-44:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/xml_backup_rules.xml.flat",
+        "source": "com.example.project.app-main-44:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/drawable_baseline_lock_24.xml.flat",
+        "source": "com.example.project.app-main-44:/drawable/baseline_lock_24.xml"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/layout_activity_qrdetails.xml.flat",
+        "source": "com.example.project.app-main-44:/layout/activity_qrdetails.xml"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.project.app-main-44:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/layout_activity_for_doctor.xml.flat",
+        "source": "com.example.project.app-main-44:/layout/activity_for_doctor.xml"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.project.app-main-44:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/drawable_login.png.flat",
+        "source": "com.example.project.app-main-44:/drawable/login.png"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.project.app-main-44:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.project.app-main-44:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/drawable_purple_light.xml.flat",
+        "source": "com.example.project.app-main-44:/drawable/purple_light.xml"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.project.app-main-44:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/layout_activity_login.xml.flat",
+        "source": "com.example.project.app-main-44:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/drawable_baseline_fullscreen_24.xml.flat",
+        "source": "com.example.project.app-main-44:/drawable/baseline_fullscreen_24.xml"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.project.app-main-44:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.project.app-main-44:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.project.app-main-44:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/drawable_main.png.flat",
+        "source": "com.example.project.app-main-44:/drawable/main.png"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/layout_activity_main.xml.flat",
+        "source": "com.example.project.app-main-44:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.project.app-debug-42:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.project.app-main-44:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    }
+]

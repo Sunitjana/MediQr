@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main">
+
+    <TextView
+        android:id="@+id/welcomeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="60dp"
+        android:text="Welcome Back"
+        android:textStyle="bold"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/sloganText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/welcomeText"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="If health becomes a concern we will be by your side"
+        android:textSize="16sp"
+        android:textStyle="italic"
+        />
+
+
+    <Button
+        android:id="@+id/seepatientsdata"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/sloganText"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="60dp"
+        android:text="VIEW PATIENTS DATA " />
+
+    <Button
+        android:id="@+id/updatepatientsdata"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/seepatientsdata"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="UPDATE PATIENTS DATA" />
+
+
+
+</RelativeLayout>
